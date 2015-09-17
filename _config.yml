@@ -11,7 +11,7 @@ menu:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "红旗下的蛋,nobsu"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -37,7 +37,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 # Sidebar, available value:

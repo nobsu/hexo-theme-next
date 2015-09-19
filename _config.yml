@@ -29,7 +29,7 @@ icon_font: default
 # Code Highlight theme
 # Available value: normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # MathJax Support
@@ -88,6 +88,12 @@ vendors: vendors
 css: css
 js: js
 images: images
+
+# Social links
+social:
+  github: https://github.com/nobsu
+  weibo: http://weibo.com/nowinner
+  oschina: http://my.oschina.net/freegeek
 
 # Theme version
 version: 0.4.5.1

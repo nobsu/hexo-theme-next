@@ -5,6 +5,7 @@ menu:
   about: /about
   archives: /archives
   tags: /tags
+  lab: /clf
   #commonweal: /404.html
 
 # Place your favicon.ico to /source directory.
